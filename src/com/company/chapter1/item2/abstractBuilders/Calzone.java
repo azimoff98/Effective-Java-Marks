@@ -1,4 +1,4 @@
-package com.company.item2.abstractBuilders;
+package com.company.chapter1.item2.abstractBuilders;
 
 public class Calzone extends Pizza {
 
